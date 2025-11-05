@@ -201,7 +201,7 @@ CREATE TABLE results (
 
 1. Run backend (`mvn spring-boot:run`)  
 2. Run frontend (`npm start`)  
-3. Visit [http://localhost:3000](http://localhost:3000)  
+3. Visit [http://localhost:8080/](http://localhost:8080/)  
 4. Add new students, courses, and results  
 5. View records instantly from the dashboard  
 
