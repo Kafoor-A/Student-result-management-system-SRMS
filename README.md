@@ -1,10 +1,13 @@
-# 🧾 Student Result Management System (SRMS)
+# 🎓 Student Result Management System (SRMS)
+
+![SRMS Banner](https://raw.githubusercontent.com/Kafoor-A/Student-result-management-system-SRMS/main/banner.png)
 
 The **Student Result Management System (SRMS)** is a full-stack web application that streamlines how educational institutions manage academic records.  
 It enables admins and teachers to create student profiles, manage courses, enter marks or grades, and automatically generate transcripts.  
 Students can securely log in to view their results and performance reports.
 
 ---
+
 
 ## 🚀 Features
 
