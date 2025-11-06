@@ -210,6 +210,7 @@ CREATE TABLE results (
 ## 📜 License
 
 This project is open-source under the **MIT License**.
+See the [LICENSE](./LICENSE) file for more details.
 
 ---
 
